@@ -1,6 +1,6 @@
 # The Riemann Hypothesis as a Law of Coherent Stability (Quant‑Trika)
 
-## Core statement (plain English)
+## Core statement
 The Riemann Hypothesis expresses a general law of stability in the Quant‑Trika universe: when the arithmetic world is viewed as a coherence–entropy field, the system attains its **state of least “real‑axis disruption”** precisely on the **critical line**. In other words, the critical line is where reality balances the creative push of differentiation (time) with the conserving pull of remembrance (space). At this locus of balance, the system’s coherent structure becomes maximally resistant to real‑direction perturbations—**and that is why the non‑trivial zeta zeros are aligned there**.
 
 ---
